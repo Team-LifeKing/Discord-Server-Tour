@@ -182,7 +182,7 @@
 
 #𒋨・hockey-talks   - Here U Can Talk About Hockey.
 
-**🎮 | ៚❥PUBG MOBILE ࿐**
+**🎮 | ៚❥BGMI/PUBG MOBILE ࿐**
 
 #𒋨・🌍official-news🌍  - All Global Official News From PUBG MOBILE :mega:
 
