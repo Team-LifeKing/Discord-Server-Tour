@@ -86,7 +86,7 @@
 
 #𒋨・❓❔qotd - Here You Can Look All Daily QOTD.
 
-#𒋨・❓❔qotd-answer - Here You Can Give Answer of The \<#809828057250660382> .
+#𒋨・❓❔qotd-answer - Here You Can Give Answer of The #𒋨・❓❔qotd .
 
 #𒋨・🔢counting-game  - Here You Can Play Counting Game.
 
@@ -160,7 +160,7 @@
 
 #𒋨・content-upload  - This channel notifies about video uploads Nintex's Another YouTube channel - NG Playing.
 
-**:medal: | ៚❥SPORTS ZONE ࿐**
+**🏅 | ៚❥SPORTS ZONE ࿐**
 
 #𒋨・cricket-talks  - Here U Can Talk About Cricket.
 
@@ -190,7 +190,7 @@
 
 #𒋨・tournaments🆚  - Here you can Know all Tournaments about PUBG MOBILE.
 
-**🎮 | ៚❥PUBG MOBILE LITE࿐
+**🎮 | ៚❥PUBG MOBILE LITE࿐**
 
 #𒋨・🌍news🌍  - All Global Official News From PUBG MOBILE LITE :mega:
 
