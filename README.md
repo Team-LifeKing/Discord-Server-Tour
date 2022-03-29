@@ -3,7 +3,7 @@
     <h1>Discord Server Tour - Team LifeKing</h1>
 </div>
 
-**:scroll: | ៚❥RECEPTION ࿐**
+**__:scroll: | ៚❥RECEPTION ࿐__**
 
 #𒋨・🤗arrivals🐣 - Welcome Channel of My Server :heart:
 
