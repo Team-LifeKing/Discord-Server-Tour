@@ -26,7 +26,7 @@
 #𒋨・📌clan-join  - You will be able to see Our Gaming Server's Clan.
 
 
-**:handshake: | ៚❥SPONSERSHIP ࿐**
+**_:handshake: | ៚❥SPONSERSHIP ࿐_**
 
 #𒋨・official-sponsers - In This Channel You can Know Which Websites Sponsoring Us.
 
@@ -36,7 +36,7 @@
 
 #𒋨・paid-sponsership  - In This Channel You can Know Which Server I am Sponsoring in Exchange of Money.
 
-**:movie_camera: | ៚❥YT(LIFEKING GAMERZ) ࿐**
+**_:movie_camera: | ៚❥YT(LIFEKING GAMERZ) ࿐_**
 
 #𒋨・channel-details -  This channel Tells about LifeKing's YouTube channel - LifeKing Gamerz.
 
@@ -46,7 +46,7 @@
 
 #𒋨・codm-customs  - In This Channel You Can Get Our Codm Custom Links Which will be held in LifeKing's YouTube channel - LifeKing Gamerz.
 
-**:speech_balloon: | ៚❥COMMUNITY࿐**
+**_:speech_balloon: | ៚❥COMMUNITY࿐_**
 
 #𒋨・general-chat📩  - Here You Can Chat with other members of this Server :envelope_with_arrow::love_letter:
 
@@ -66,13 +66,13 @@
 
 #𒋨・👰marriage🤵  - Here You can Make your Life Partner With the command :arrow_right: m!propose 
 
-**:books: | ៚❥ACHIEVEMENT ZONE࿐**
+**_:books: | ៚❥ACHIEVEMENT ZONE࿐_**
 
 #𒋨・my-achievements  - Here The Owner Will Post His Achievements.
 
 #𒋨・others-achievements  - Here You Can Post Your Achievements.
 
-**:art: | ៚❥TALENT ZONE࿐**
+**__:art: | ៚❥TALENT ZONE࿐_**
 
 #𒋨・painting  - Here You Can Show Your Painting Talents.
 
@@ -80,7 +80,7 @@
 
 #𒋨・other-talents - Here You Can Show Your Other Talents.
 
-**:kite: | ៚❥FUN GAMES࿐**
+**_:kite: | ៚❥FUN GAMES࿐_**
 
 #𒋨・👀truth-or-dare  - Here You Can Play Truth & Dare.
 
@@ -110,7 +110,7 @@
 
 #𒋨・chess-playzone  - Here You Can Play Chess.
 
-**:confetti_ball: | ៚❥EVENTS & GIVEAWAYS࿐**
+**_:confetti_ball: | ៚❥EVENTS & GIVEAWAYS࿐_**
 
 #𒋨・📑invite-tracking  - Invite Tracker For Events & Giveaways.
 
@@ -121,7 +121,7 @@
 #𒋨・🤬left-server😤 - Left The Server & loss the chance to win Events & Giveaway Prizes.
 
 #𒋨・🎊events¹  - Yearly Events Channel.
-
+_
 #𒋨・🎊events²  - Monthly Events Channel.
 
 #𒋨・🎊events³  - Daily Events Channel.
@@ -130,7 +130,7 @@
 
 #𒋨・🎉giveaways²  -  Daily Giveaways Channel.
 
-**:wrench: | ៚❥REQUIREMENTS ࿐**
+**_:wrench: | ៚❥REQUIREMENTS ࿐_**
 
 #𒋨・mod-requirements  -  Requirement Details For Moderator and Staffs.
 
@@ -144,7 +144,7 @@
 
 #𒋨・register-for-clan -  Registration  For Any Games' Clan.
 
-**:performing_arts: | ៚❥SOCIAL MEDIA ZONE࿐**
+**_:performing_arts: | ៚❥SOCIAL MEDIA ZONE࿐_**
 
 #𒋨・tweets  -  Tweets from The Owner.
 
@@ -152,15 +152,15 @@
 
 #𒋨・omlet-live  - OmletArcade Live Remainder Channel.
 
-#𒋨・facebook-live  - Facebook Live Remainder Channel.
+#𒋨・facebook-live  - Facebook Live Remainder Channel_.
 
-**:movie_camera: | ៚❥YT(NG PLAYING) ࿐**
+**_:movie_camera: | ៚❥YT(NG PLAYING) ࿐_**
 
 #𒋨・channel-details  - This channel Tells about Nintex's Another YouTube channel - NG Playing.
 
 #𒋨・content-upload  - This channel notifies about video uploads Nintex's Another YouTube channel - NG Playing.
 
-**🏅 | ៚❥SPORTS ZONE ࿐**
+**_🏅 | ៚❥SPORTS ZONE ࿐_**
 
 #𒋨・cricket-talks  - Here U Can Talk About Cricket.
 
@@ -182,7 +182,7 @@
 
 #𒋨・hockey-talks   - Here U Can Talk About Hockey.
 
-**🎮 | ៚❥BGMI/PUBG MOBILE ࿐**
+**_🎮 | ៚❥BGMI/PUBG MOBILE ࿐_**
 
 #𒋨・🌍official-news🌍  - All Global Official News From PUBG MOBILE :mega:
 
@@ -190,11 +190,11 @@
 
 #𒋨・tournaments🆚  - Here you can Know all Tournaments about PUBG MOBILE.
 
-**🎮 | ៚❥PUBG MOBILE LITE࿐**
+**_🎮 | ៚❥PUBG MOBILE LITE࿐_**
 
 #𒋨・🌍news🌍  - All Global Official News From PUBG MOBILE LITE :mega:
 
-**🎮 | ៚❥CALL OF DUTY MOBILE ࿐**
+**_🎮 | ៚❥CALL OF DUTY MOBILE ࿐_**
 
 #𒋨・🌍official-news🌍   - Official Call of Duty: Mobile Community Updates from Activision Community Team & Community Manager :mega:
 
@@ -212,15 +212,15 @@
 
 #𒋨・tournaments🆚  - Here you can Know all Tournaments about Call of duty Mobile.
 
-**:video_game: | ៚❥GTA V ࿐**
+**_:video_game: | ៚❥GTA V ࿐_**
 
 #𒋨・🌍news🌍  - All Global Official News From GTA V  :mega:
 
-**:video_game: | ៚❥MINECRAFT ࿐**
+**_:video_game: | ៚❥MINECRAFT ࿐_**
 
 #𒋨・🌍news🌍  - All Global Official News From MINECRAFT :mega:
 
-**:video_game: | ៚❥CLASH OF CLANS ࿐**
+**_:video_game: | ៚❥CLASH OF CLANS ࿐_**
 
 #𒋨・updates  - Here you can get the Updates Details About CLASH OF CLANS. 
 
@@ -228,29 +228,29 @@
 
 #𒋨・miner-network  - Here you can get the Clan Games Rewards Details About CLASH OF CLANS.
 
-**:video_game: | ៚❥FIFA MOBILE ࿐**
+**_:video_game: | ៚❥FIFA MOBILE ࿐_**
 
 #𒋨・🌍news🌍  - All Global Official News From FIFA MOBILE:mega:
 
-**:video_game: | ៚❥FREE FIRE ࿐**
+**_:video_game: | ៚❥FREE FIRE ࿐_**
 
 #𒋨・🌍news🌍  - All Global Official News From FREE FIRE :mega:
 
-**:video_game: | ៚❥AMONG US ࿐**
+**_:video_game: | ៚❥AMONG US ࿐_**
 
 #𒋨・🌍news🌍  - All Global Official News From AMONG US :mega:
 
-**:video_game: | ៚❥FALL GUYS ࿐**
+**_:video_game: | ៚❥FALL GUYS ࿐_**
 
 #𒋨・🌍news🌍  - All Global Official News From FALL GUYS :mega:
 
-**:notes: | ៚❥MEMBERS MUSIC CORNER ࿐**
+**_:notes: | ៚❥MEMBERS MUSIC CORNER ࿐_**
 
 #𒋨・hydra  - Staff Members Only Music Corner Command Channel.
 
 𒋨 | Hydra[ngh1] - Staff Members Only Music Corner Voice Channel.
 
-**:notes: | ៚❥MUSIC CORNER ࿐**
+**_:notes: | ៚❥MUSIC CORNER ࿐_**
 
 #𒋨・rythm - All Members Music Corner 1st Command Channel. 
 
@@ -268,13 +268,13 @@
 . 
 𒋨 | Vexera [??] - All Members Music Corner 4th Voice Channel.
 
-**🔉 | ៚❥VOICE FOR MEMBERS ࿐**
+**_🔉 | ៚❥VOICE FOR MEMBERS ࿐_**
 
 #𒋨・talk-show  - Chatting Channel With LifeKing Gamerz.
 
 𒋨 | Members - Voice Channel With LifeKing Gamerz.
 
-**🔉 | ៚❥VOICE FOR ALL ࿐**
+**_🔉 | ៚❥VOICE FOR ALL ࿐_**
 
 𒋨 | Duo #1 - For Two Member Talking.
 
@@ -302,7 +302,7 @@
 
 𒋨 | Live #4 - For Live Streaming. 
 
-**📣 | ៚❥PROMOTION ࿐**
+**_📣 | ៚❥PROMOTION ࿐_**
 
 #𒋨・⏩yt-channel-ads  - This is for Youtube Channel Only
 
@@ -314,7 +314,7 @@
 
 #𒋨・📺twitch-ads  - Promote Your Twitch Account.
 
-**📞 | ៚❥HELPLINE ࿐**
+**_📞 | ៚❥HELPLINE ࿐_**
 
 #𒋨・suggestion-cmnds  - USE THIS COMMAND - `.suggest <your_suggestion>`
 
